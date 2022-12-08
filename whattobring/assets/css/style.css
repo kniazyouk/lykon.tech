@@ -1,0 +1,5 @@
+.circle {
+    background-image: linear-gradient(180deg,  rgba(236, 37, 39, 1) 25%, rgba(179, 38, 138, 1) 100%) !important;
+
+    /* background-image: linear-gradient(180deg, rgba(0, 0, 0, .7) 25%, #0e0e0e 100%); */
+}
